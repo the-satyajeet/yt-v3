@@ -2,7 +2,8 @@
 React assessment project provided by Provoke Developers - YouTube V3 API
 
 
-# Install dependencies to run -   
+## Install dependencies to run -   
+```bash
 > git clone https://github.com/the-satyajeet/yt-v3.git   
 > cd yt-v3   
 > yarn    
